@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Engineering Reviewer"
+  short_description: "Evidence-driven code and architecture reviews"
+  default_prompt: "Use $ai-engineering-reviewer in STANDARD mode to review the requested code or design without modifying files."
